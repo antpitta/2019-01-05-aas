@@ -685,7 +685,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %} -->
 
-<-- <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
+<!-- <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
