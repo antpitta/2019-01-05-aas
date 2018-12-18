@@ -281,6 +281,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+Instructions for testing your installation can be found <a href="https://abostroem.github.io/2019-01-05-aas/setup/index.html">here</a>
+</p>
+<p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
