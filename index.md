@@ -318,7 +318,7 @@ Instructions for testing your installation can be found <a href="https://abostro
             </li>
             {% comment %} Adjusting your PATH environment {% endcomment %}
             <li>
-                Keep "Use Git from the Windows Command Prompt" selected and click on "Next".
+                Keep "Git from the command line and also from 3rd-party software" (older versions may say: "Use Git from the Windows Command Prompt")  selected and click on "Next".
                 If you forgot to do this programs that you need for the workshop will not work properly.
                 If this happens rerun the installer and select the appropriate option.
             </li>
